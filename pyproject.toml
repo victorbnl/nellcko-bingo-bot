@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "bingo-bot"
 version = "0.1.0"
-description = "Bot pour le bingo de Nellcko"
+description = "Bot for Nellcko's bingo"
 authors = ["Victor Bonnelle <victor.bonnelle@proton.me>"]
 
 [tool.poetry.dependencies]
